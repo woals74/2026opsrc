@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 sd
 adf
 adfasdf
 dsfl
+=======
+adf
+>>>>>>> 3wa
+
+
+hjkryhdtrsbsfy
